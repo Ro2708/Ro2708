@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🌻
+Meu nome é Rosemeire
 
-<!--
-**Ro2708/Ro2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Sou professora de Tecnologia Robotica na 3série do Ensino Médio
+ - Aqui estamos desenvolvendo linguagem de programação JavaScript
+ - Utilizando esse espaço para compartilhamento os projetos desenvolvidos.
 
-Here are some ideas to get you started:
+## você pode entrar emcontato comigo através 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+rosemeireal@professor.educacao.sp.gov.br
+
+
+![](![image](https://github.com/Ro2708/Ro2708/assets/172703036/145ff983-5cbf-4ef2-ac47-a7377c353d8b)
+
+
